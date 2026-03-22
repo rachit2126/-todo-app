@@ -91,4 +91,4 @@ This project helps in understanding:
 
 ## 👨‍💻 Author
 
-Developed as a beginner front-end learning project.
+Developed as a beginner front-end learning project......
